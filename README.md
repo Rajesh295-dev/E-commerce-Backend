@@ -5,7 +5,7 @@ This is a back end for an e-commerce site which is based on CRUD operations. Thi
 ## Feature List:
 - Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
 
-- MySql - Used to store all the added, updated, and modified data through prompts within the application.
+- MySql - Used to store all the added, updated, and modified data within the application.
 
 
 
@@ -36,22 +36,26 @@ node server.js
 
 ## Walkthrough video:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://drive.google.com/drive/u/0/my-drive)
+[![A video thumbnail shows the e-commerce backend application with a play button overlaying the view.](./Assets/video-thumbnail.png)](https://drive.google.com/file/d/1XBLhc9RPYwkY9HDXVD_7GhUzJkep2SV0/view)
 
 
- [Click here for video](https://youtu.be/fSepl9tD1xY) 
 
 ## Screenshots
- ![](./images/readme1.png)
 
+### Products:
+ ![](./Assets/product.png)
 
-  ![](./images/readme2.png)
+### Tags:
+  ![](./Assets/tags.png)
+
+### Categories:
+  ![](./Assets/category.png)
   
 
 ## Links :
 
 
-* Link for the Github repository [Host by Github](https://github.com/tharveyster/recipe-search)
+* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/E-commerce-Backend)
 
 
 

@@ -36,7 +36,7 @@ Product.init(
       allowNull: false,
       defaultValue:10,
       validate:{
-        idNumeric:true
+        isNumeric:true
       }
     },
     //define category_id column
